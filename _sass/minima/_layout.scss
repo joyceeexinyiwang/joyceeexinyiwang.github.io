@@ -281,7 +281,7 @@
   min-width: 150px;
   width: 40%;
   word-wrap: break-word;
-  margin-left: 30px;
-  margin-bottom: 20px;
-  margin-right: 10px;
+  margin-left: $base-line-height * $base-font-size * 1.5;
+  margin-bottom: $base-line-height * $base-font-size;
+  margin-right: $base-line-height * $base-font-size * 0.5;
 }
