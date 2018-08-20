@@ -23,7 +23,7 @@ permalink: /cv/
 `May–Aug 2018` Disney Research - Lab Associate  
 `May–Aug 2017` Microsoft - Explorer Internship (Software Dev + PM)  
 `Sep–Dec 2016` School of Computer Science (CMU) - Teaching Assistant for 15-112 with Professor David Kosbie  
-`May–July, 2016` Human-Computer Interaction Institute (CMU) - Research Assistant with Professor Jason Hong  
+`May–July 2016` Human-Computer Interaction Institute (CMU) - Research Assistant with Professor Jason Hong  
 `Sep 2016–May 2017` School of Drama (CMU) - production crew member for every theater production  
 `Sep 2015–July 2016` Miller Gallery - student art assistant  
 
