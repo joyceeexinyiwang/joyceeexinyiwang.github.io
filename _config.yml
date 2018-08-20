@@ -1,9 +1,9 @@
-title: Joyce Wang
+title: 王心怡 | Wang Xin Yi | Joyce
 # author: 
 email: joycexinyiwang@cmu.edu
 quote: If I could figure out a way to remain forever in transition, in the disconnected and unfamiliar, I could remain in a state of perpetual freedom. -David Wojnarowicz
 description: > # this means to ignore newlines until "twitter_username:"
-  Joyce Wang, Student and Research at Carnegie Mellon University
+  Joyce (Xinyi Wang) Student at Carnegie Mellon University
 
 # social links
 github_username:  joyceeexinyiwang
@@ -24,7 +24,6 @@ twitter_username: _vaguely_
 #   instance: example.com
 # - username: jekyll2
 #   instance: example.com
-
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

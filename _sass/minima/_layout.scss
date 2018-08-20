@@ -12,16 +12,13 @@
 
 .site-title {
   @include relative-font-size(1.25);
-  font-weight: 600;
-  line-height: $base-line-height * $base-font-size * 3;
+  line-height: $base-line-height * $base-font-size * 1.25;
   letter-spacing: 0px;
-  margin-bottom: 0;
+  margin-top: $base-line-height * $base-font-size * 0.6;
+  padding: $base-line-height * $base-font-size * 0.3;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  color: $background-color;
+  background-color: $site-title-color;
 }
 
 .site-nav {

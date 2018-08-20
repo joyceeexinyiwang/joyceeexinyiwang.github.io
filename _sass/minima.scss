@@ -19,6 +19,7 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 10%) !default;
 
 $blue-color:	   #e23131 !default;
+$site-title-color: lighten($blue-color, 20%) !default;
 
 $table-text-align: left !default;
 
