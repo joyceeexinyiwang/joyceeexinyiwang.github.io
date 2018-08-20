@@ -1,9 +1,8 @@
 ---
-layout: page
-title: Portfolio
-permalink: /portfolio/
+
+layout: portfolio
+title: Selected projects
+permalink: /work/
+
 ---
-
-
-Coming soon.
 
