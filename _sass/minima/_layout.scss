@@ -238,7 +238,6 @@
 .post-content h1 {
   @include relative-font-size(1);
   letter-spacing: 0px;
-  line-height: 1;
 
   font-weight: 500;
   color: $blue-color;
@@ -269,6 +268,22 @@
 
   h4 {
     @include relative-font-size(1.25);
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.25);
+    }
+  }
+
+  h5 {
+    @include relative-font-size(1.1);
+    font-weight: bold;
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.25);
+    }
+  }
+
+  h6 {
+    @include relative-font-size(1);
+    font-weight: italic;
     @include media-query($on-laptop) {
       @include relative-font-size(1.25);
     }
