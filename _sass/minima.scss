@@ -12,14 +12,15 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #f77b7b !default;
+
+$blue-color:	   #06ceb3 !default;
+$brand-color:      darken($blue-color, 3%) !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 10%) !default;
 
-$blue-color:	   #e23131 !default;
-$site-title-color: lighten($blue-color, 20%) !default;
+$site-title-color: lighten($blue-color, 2%) !default;
 
 $table-text-align: left !default;
 
