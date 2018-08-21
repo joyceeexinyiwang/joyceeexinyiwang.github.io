@@ -5,4 +5,4 @@ To run locally,
 
 `$ bundle exec jekyll serve`
 
-The design of this website is very closely adapted from Kanyi Maqubela's website, [kanyi.me](kanyi.me).
+The design of this website is very closely adapted from Kanyi Maqubela's website, [kanyi.me](https://kanyi.me).
