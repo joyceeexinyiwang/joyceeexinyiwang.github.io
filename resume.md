@@ -9,7 +9,7 @@ permalink: /cv/
 
 <br>
 
-# Growing CV
+# CV
 
 **Education**
 
@@ -21,10 +21,10 @@ permalink: /cv/
 **Work experience**
 
 `May–Aug 2018` Disney Research - Lab Associate  
-`May–Aug 2017` Microsoft - Explorer Internship (Software Dev + PM)  
+`May–Aug 2017` Microsoft - Explorer Internship (software engineering and program management rotation)  
 `Sep–Dec 2016` School of Computer Science (CMU) - Teaching Assistant for 15-112 with Professor David Kosbie  
 `May–July 2016` Human-Computer Interaction Institute (CMU) - Research Assistant with Professor Jason Hong  
-`Sep 2016–May 2017` School of Drama (CMU) - production crew member for every theater production  
+`Sep 2016–May 2017` School of Drama (CMU) - production crew member for theater productions all season  
 `Sep 2015–July 2016` Miller Gallery - student art assistant  
 
 **Grants**
@@ -40,10 +40,8 @@ permalink: /cv/
 **Involvements**
 
 `Sep 2017-present` *CMU Listens* co-director  
-&emsp;student initiative dedicated to the fostering of empathy and radical listening  
-&emsp;off-campus retreats and on-campus workshops
+&emsp;new student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community 
 
 `Jan 2017-present` *IMPAQT*  
-&emsp;facilitate communication and collaboration between CMU’s Qatar and Pittsburgh campuses  
-&emsp;trip to Doha, Qatar in spring break and continuing commitment during regular school year  
+&emsp;facilitate communication and collaboration between Carnegie Mellon University's Qatar and Pittsburgh campuses  
 &emsp;sponsored by Qatar Foundation and Carnegie Mellon University
