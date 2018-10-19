@@ -81,7 +81,7 @@ __*[Independent research on the education of migrant children in mainland China]
 
     <div class="container">
       <a href="http://cmuems.com/2018/60212s/joxin/02/15/joxin-asemic/" >
-      <img src="/assets/asemic.jpg" alt="Avatar" class="image">
+      <img src="/assets/asemic.JPG" alt="Avatar" class="image">
       <div class="overlay">
         <div class="text">Asemic writing using Axidram plotter</div>
       </div>
