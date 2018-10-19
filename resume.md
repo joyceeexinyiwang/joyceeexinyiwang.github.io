@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 # Resume 
-[_pdf](/assets/joycewang_0818_2.pdf)
+[_pdf](/assets/joycewang_1017.pdf)
 
 <br>
 

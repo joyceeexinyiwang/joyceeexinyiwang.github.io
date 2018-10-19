@@ -43,7 +43,7 @@ theme: minima
 header_pages:
   - index.md
   - resume.md
-  - portfolio.md
+  # - portfolio.md
   - gallery.md
 
 plugins:
