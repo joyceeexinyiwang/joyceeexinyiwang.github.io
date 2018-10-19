@@ -27,5 +27,5 @@ At the moment (fall 2018), I am working on my computer science [senior honors th
 
 After graduation, I will be staying at CMU for one extra year on the [Fifth Year Scholarship](https://www.cmu.edu/student-affairs/dean/fifth/index.html), which would fund me to organize [workshops, games, and festivals](https://github.com/joyceeexinyiwang/FYS) for the goal of disrupting discipline-based networks in the CMU community.
 
-I adore museums, music, new environments, and being active. My family and friends are the most important parts of my life. Having been far from home for a long time, and occasionally feeling a bit foreign wherever I am, I try to find a balance between different parts of my identity and live as honestly as I can.
+I adore museums, music, new environments, and being active. My family and friends are the most important parts of my life. Having been far from home for a long time, and often finding myself in between different cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
 
