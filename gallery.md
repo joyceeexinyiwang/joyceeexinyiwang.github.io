@@ -11,7 +11,7 @@ permalink: /gallery/
 **Research**
 
 __*[Fifth Year Scholar Project](https://github.com/joyceeexinyiwang/FYS)*__ (2018-2010, ongoing)
-- Study on the history of interdisciplinary education and research at Carnegie Mellon University
+- Examination of the history of interdisciplinary education and research at Carnegie Mellon University
 - Design and facilitation of workshops and games to disrupt existing discipline-based social networks
 
 __*[Evaluating Journalistic Practices and News Consumption on Twitter Using Social Network Analysis](https://github.com/joyceeexinyiwang/SCSThesis)*__ (2018-2019, ongoing)
@@ -23,7 +23,7 @@ Characters]()*__ (2018 summer)
 - Sponsored and advised by [Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) (Disney Research)
 - Submitted research paper to ACM IUI Conference (March 2019) 
 
-__*[Independent research on the education of migrant children in mainland China](/research/2015/01/20/CAMD.html)*__ (2014-2015)
+__*[Independent Research on the Education of Migrant Children in Mainland China](/research/2015/01/20/CAMD.html)*__ (2014-2015)
 - funded and supported by the Community and Multicultural Development (CAMD) office at Phillips Academy
 
 <br>
