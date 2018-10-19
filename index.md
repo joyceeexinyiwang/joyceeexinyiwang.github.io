@@ -8,12 +8,12 @@
 #
 
 layout: page
-title: Bio
+title: Statement
 list_title: posts
 
 ---
 
-# Bio
+# Statement
 
 <br>
 
