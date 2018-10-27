@@ -8,12 +8,12 @@
 
 
 layout: page
-title: Statement
+title: Journey
 list_title: posts
 
 ---
 
-# Statement
+# Journey
 
 <br>
 
