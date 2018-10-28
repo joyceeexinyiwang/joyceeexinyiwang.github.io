@@ -95,7 +95,7 @@ __*[Independent Research on the Education of Migrant Children in Mainland China]
 
     <div class="container">
       <a href="/media/art/2018/05/10/PopUpAR.html" >
-      <img src="/assets/popup1.gif" alt="Avatar" class="image">
+      <img src="/assets/popup_img_2.png" alt="Avatar" class="image">
       <div class="overlay">
         <div class="text">Süleymanname: A Pop-Up Illuminated Manuscript<br>(mini augmented reality project)</div>
       </div>

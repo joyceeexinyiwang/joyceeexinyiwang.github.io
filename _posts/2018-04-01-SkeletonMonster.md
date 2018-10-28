@@ -10,10 +10,10 @@ time: "April 2018"
 
 I converted a human skeleton to a monster.
 
+<a href="http://cmuems.com/2018/60212s/joxin/05/04/joxin-mocap/">
+*Click to see documentation* </a>
 
 <a href="http://cmuems.com/2018/60212s/joxin/03/04/joxin-mocap/">
 <img src="/assets/spider.gif"> </a>
 
-<a href="http://cmuems.com/2018/60212s/joxin/05/04/joxin-mocap/">
-*Click to see documentation* </a>
 
