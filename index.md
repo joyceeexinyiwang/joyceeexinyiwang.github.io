@@ -8,7 +8,7 @@
 
 
 layout: page
-title:  
+title: Home
 list_title: posts
 
 ---
