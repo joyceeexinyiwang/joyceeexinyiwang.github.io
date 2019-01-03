@@ -8,24 +8,45 @@
 
 
 layout: page
-title: Journey
+title:  
 list_title: posts
 
 ---
 
-# Journey
+# My name is Joyce Wang (王心怡).
+
+I am an adisciplinary researcher and maker interested in media, culture, and computational methods. 
+
+I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings of people and help them understand each others' stories while challenging each others' storytelling.
+
+Currently, I am studying computer science and design for the theater at Carnegie Mellon University.
 
 <br>
 
-<img src="/assets/headshot.png" class="img-headshot" alt="">
+------ 
 
-我叫王心怡。 My name is Wang Xin Yi, and I go by Joyce. I am an adisciplinary researcher and maker interested in media, culture, and computational methods.
+<br>
 
-I was born and raised in Beijing. When I was 15, I came to the US to attend Phillips Academy, where I developed a keen interest in global culture and history. Since 2015, I have been studying at Carnegie Mellon University as part of an interdisciplinary program called [B.C.S.A](http://www.flong.com/blog/2017/the-rigor-of-cmus-bcsa-degree/), taking classes across the School of Computer Science and the School of Drama. I have worked on the [media design team](/theater/2017/11/05/Sock.html) for several theater productions, taught intro-level programming, made art, and  directed an [multi-media experimental performance piece](/theater/2017/12/10/Translations.html). For my first internship, I worked at Microsoft as a software engineer within the marketplace service division. Most recently, I spent an incredible summer at [Disney research](https://www.disneyresearch.com/), prototyping authoring interfaces for intelligent virtual characters and thinking creatively about AI.
+My current projects:
 
-At the moment (fall 2018), I am working on my computer science [senior honors thesis](https://github.com/joyceeexinyiwang/SocietalComputing) with [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html), decoding patterns of journalistic practices and news consumption on Twitter using social network analysis.
+##### Research-based activism
+#### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020)  
+- Examination of the history of interdisciplinary education and research at Carnegie Mellon University
+- Design and facilitation of workshops and games to disrupt existing discipline-based social networks
+- Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
 
-After graduation, I will be staying at CMU for one extra year on the [Fifth Year Scholarship](https://www.cmu.edu/student-affairs/dean/fifth/index.html), which would fund me to research on the [history of interdisciplinary education](https://github.com/joyceeexinyiwang/FYS) in the institution. I also plan to organize workshops and games to experiment with disrupting discipline-based networks and bringing together people with different backgrounds and mindsets.
+##### Social computing research  
+#### [A Study on the Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019)
+- School of Computer Science Senior Honors Thesis
+- Advised by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) (Institute for Software Research)
 
-I adore reading, museums, new environments, and being active. My family and friends are the most important part of my life. Having been far from home for a long time, and often finding myself in between different cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
+##### Theater
+#### [The People Upstairs]() (Jan-Feb 2019)
+- Devised theater piece about the life of sex workers in the United States
+- Opening in February 2019 at Playground, CMU's student independent theater festival.
+
+##### Campus activism
+#### [CMU Listens](https://www.cmu.edu/student-affairs/dean/cmu-listens/index.html) (2017-2019)
+- New student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community
+- Organized on-campus workshops and off-campus retreats
 

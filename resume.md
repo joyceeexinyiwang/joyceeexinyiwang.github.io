@@ -30,12 +30,14 @@ permalink: /cv/
 **Grants**
 
 `2019-2020` Fifth Year Scholarship (Carnegie Mellon University)  
-`Fall 2017` Small Undergraduate Research Grant (Carnegie Mellon University)  
+`2017` Small Undergraduate Research Grant (Carnegie Mellon University)  
+`2017` BXA Small Grant (Carnegie Mellon University)  
 `2014-2015` CAMD Scholarship (Phillips Academy)  
 
-**Exhibition**
+**Awards and Exhibition**
 
-`May 2019` USITT-USA Prague Quadrennial 2019 Emerging Designer Exhibit
+`May 2019` USITT-USA Prague Quadrennial 2019 Emerging Designer Exhibit  
+`Dec 2018` The Martin Luther King, Jr. Day Writing Awards College Prose Division (Second Place)  
 
 **Involvements**
 

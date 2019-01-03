@@ -45,7 +45,7 @@ header_pages:
   # - portfolio.md
   - gallery.md
   - resume.md
-
+  - journey.md
 
 plugins:
  - jekyll-feed
