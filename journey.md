@@ -9,7 +9,6 @@
 
 layout: page
 title: Journey
-list_title: posts
 permalink: /journey/
 
 ---
