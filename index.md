@@ -17,7 +17,7 @@ list_title: posts
 
 I am an adisciplinary researcher and maker interested in media, culture, and computational methods. 
 
-I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings where we learn to better understand each others' stories while challenging each others' storytelling.
+I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings where we learn to better understand each other's stories while challenging each other's storytelling.
 
 Currently, I am studying computer science and drama at Carnegie Mellon University.
 
