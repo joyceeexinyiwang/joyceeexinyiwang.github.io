@@ -17,9 +17,9 @@ list_title: posts
 
 I am an adisciplinary researcher and maker interested in media, culture, and computational methods. 
 
-I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings of people and help them understand each others' stories while challenging each others' storytelling.
+I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings where we learn to better understand each others' stories while challenging each others' storytelling.
 
-Currently, I am studying computer science and design for the theater at Carnegie Mellon University.
+Currently, I am studying computer science and drama at Carnegie Mellon University.
 
 <br>
 
@@ -36,7 +36,7 @@ My current projects:
 - Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
 
 ##### Social computing research  
-#### [A Study on the Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019)
+#### [The Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019)
 - School of Computer Science Senior Honors Thesis
 - Advised by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) (Institute for Software Research)
 
