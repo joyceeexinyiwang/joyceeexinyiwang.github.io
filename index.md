@@ -17,7 +17,7 @@ list_title: posts
 
 I am an adisciplinary researcher and maker interested in media, culture, and computational methods. 
 
-I anchor my work in people. Using technology, research, and artistic expression, I aspire to create meaningful gatherings where we learn to better understand each other's stories while challenging each other's storytelling.
+I anchor my work in people. Technology, research, and creative expression are my vehicles for action. I aspire to create meaningful gatherings where we learn to better understand each other's stories while challenging each other's storytelling.
 
 Currently, I am studying computer science and drama at Carnegie Mellon University.
 
@@ -32,7 +32,7 @@ My current projects:
 ##### Research-based activism
 #### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020)  
 - Examination of the history of interdisciplinary education and research at Carnegie Mellon University
-- Design and facilitation of workshops and games to disrupt existing discipline-based social networks
+- Design and facilitation of workshops and games to facilitate interdisciplinary discussions and collaborations among undergraduate students
 - Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
 
 ##### Social computing research  
