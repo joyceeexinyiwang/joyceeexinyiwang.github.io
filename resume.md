@@ -31,6 +31,7 @@ permalink: /cv/
 **Grants**
 
 `2019-2020` Fifth Year Scholarship (Carnegie Mellon University)  
+`2017` Frank-Ratchye Fund for Arts at the Frontier
 `2017` Small Undergraduate Research Grant (Carnegie Mellon University)  
 `2017` BXA Small Grant (Carnegie Mellon University)  
 `2014-2015` CAMD Scholarship (Phillips Academy)  
