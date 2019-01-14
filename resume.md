@@ -28,18 +28,15 @@ permalink: /cv/
 `Sep 2016–May 2017` School of Drama (CMU) - production crew member for theater productions all season  
 `Sep 2015–July 2016` Miller Gallery - student art assistant  
 
-**Grants**
+**Grants and Awards**
 
 `2019-2020` Fifth Year Scholarship (Carnegie Mellon University)  
-`2017` Frank-Ratchye Fund for Arts at the Frontier
+`May 2019` USITT-USA Prague Quadrennial 2019 Emerging Designer Exhibit  
+`Dec 2018` The Martin Luther King, Jr. Day Writing Awards (College Prose Division, Second Place)  
+`2017` Frank-Ratchye Fund for Arts at the Frontier  
 `2017` Small Undergraduate Research Grant (Carnegie Mellon University)  
 `2017` BXA Small Grant (Carnegie Mellon University)  
 `2014-2015` CAMD Scholarship (Phillips Academy)  
-
-**Awards and Exhibition**
-
-`May 2019` USITT-USA Prague Quadrennial 2019 Emerging Designer Exhibit  
-`Dec 2018` The Martin Luther King, Jr. Day Writing Awards College Prose Division (Second Place)  
 
 **Involvements**
 
