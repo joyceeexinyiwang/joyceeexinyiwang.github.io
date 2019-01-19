@@ -8,22 +8,22 @@
 
 
 layout: page
-title: Home
+title: Projects
 list_title: posts
 
 ---
 
 # My name is Joyce Wang (王心怡).
 
-I am an adisciplinary researcher and maker interested in media, culture, and computational methods. 
-
-I anchor my work in people. Technology, research, and creative expression are my vehicles for action. I aspire to create meaningful gatherings where we learn to better understand each other's stories while challenging each other's storytelling.
+I am a creative technologist and a theater maker. I anchor my work in its relation to people, and I strive to tell stories that delight and inspire. As someone who often finds herself across different cultural and intellectual spaces, I believe in the power of being authentic and synthesizing ideas generated from different perspectives and mindsets.
 
 Currently, I am studying computer science and drama at Carnegie Mellon University.
 
+<br>
 
 ---
 
+<br>
 
 **Theater**
 
@@ -48,6 +48,8 @@ Currently, I am studying computer science and drama at Carnegie Mellon Universit
       </a>
     </div>
 </div>
+
+<br>
 
 #### [The People Upstairs]() (Jan-Feb 2019, ongoing)
 - Devised theater piece about the life of sex workers in the United States
@@ -128,7 +130,10 @@ Currently, I am studying computer science and drama at Carnegie Mellon Universit
 
   </div>
 </div>
+<br>
 
+---
+<br>
 **Research**
 
 ##### Research-based activism
