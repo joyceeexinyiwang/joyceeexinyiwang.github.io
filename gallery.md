@@ -6,39 +6,7 @@ permalink: /gallery/
 
 ---
 
-**Research**
-
-##### Research-based activism
-#### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020, ongoing)  
-- Examination of the history of interdisciplinary education and research at Carnegie Mellon University
-- Design and facilitation of workshops and games to disrupt existing discipline-based social networks
-- Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
-
-##### Social computing research  
-#### [A Study on the Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019, ongoing)
-- School of Computer Science Senior Honors Thesis
-- Advised by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) (Institute for Software Research)
-
-##### HCI research
-#### [Conversational Approach to the Creative Authoring of Intelligent Virtual Characters]() (2018 summer)
-- Sponsored and advised by [Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) (Disney Research)
-
-##### Sociology research
-#### [Independent Research on the Education of Migrant Children in Mainland China](/research/2015/01/20/CAMD.html) (2014-2015)
-- funded and supported by the Community and Multicultural Development (CAMD) office at Phillips Academy
-
-<br>
-
 **Theater**
-
-#### [The People Upstairs]() (Jan-Feb 2019, ongoing)
-- Devised theater piece about the life of sex workers in the United States
-- Opening in February 2019 at Playground, CMU's student independent theater festival
-
-#### [Regenesis]() (Nov 2018)
-- Libretto by Daniel Burns, Music by Ziyu Wang
-- Media design for 30-minute opera about a story set in the future, where archeologists come to earth to understand humanity
-- Opened in Nov 2018 at Compos-it Opera Festival
 
 <div class="row"> 
 	<div class="container">
@@ -61,6 +29,16 @@ permalink: /gallery/
       </a>
     </div>
 </div>
+
+#### [The People Upstairs]() (Jan-Feb 2019, ongoing)
+- Devised theater piece about the life of sex workers in the United States
+- Opening in February 2019 at Playground, CMU's student independent theater festival
+
+#### [Regenesis]() (Nov 2018)
+- Libretto by Daniel Burns, Music by Ziyu Wang
+- Media design for 30-minute opera about a story set in the future, where archeologists come to earth to understand humanity
+- Opened in Nov 2018 at Compos-it Opera Festival
+
 
 <br>
 
@@ -131,3 +109,26 @@ permalink: /gallery/
 
   </div>
 </div>
+
+**Research**
+
+##### Research-based activism
+#### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020, ongoing)  
+- Examination of the history of interdisciplinary education and research at Carnegie Mellon University
+- Design and facilitation of workshops and games to disrupt existing discipline-based social networks
+- Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
+
+##### Social computing research  
+#### [A Study on the Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019, ongoing)
+- School of Computer Science Senior Honors Thesis
+- Advised by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) (Institute for Software Research)
+
+##### HCI research
+#### [Conversational Approach to the Creative Authoring of Intelligent Virtual Characters]() (2018 summer)
+- Sponsored and advised by [Mubbasir Kapadia](https://www.cs.rutgers.edu/~mk1353/) (Disney Research)
+
+##### Sociology research
+#### [Independent Research on the Education of Migrant Children in Mainland China](/research/2015/01/20/CAMD.html) (2014-2015)
+- funded and supported by the Community and Multicultural Development (CAMD) office at Phillips Academy
+
+<br>

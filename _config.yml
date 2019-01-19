@@ -41,7 +41,7 @@ minima:
 theme: minima
 
 header_pages:
-  - gallery.md
+  - index.md
   - resume.md
   - journey.md
 
