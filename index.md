@@ -132,8 +132,9 @@ Currently, I am studying computer science and drama at Carnegie Mellon Universit
 </div>
 <br>
 
----
+
 <br>
+
 **Research**
 
 ##### Research-based activism
