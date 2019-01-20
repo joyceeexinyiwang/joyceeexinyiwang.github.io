@@ -103,7 +103,7 @@ permalink: /gallery/
     </div>
 
     <div class="container">
-      <a href="/media/art/2018/05/10/incense.html" >
+      <a href="/media/art/2018/05/10/Incense.html" >
       <img src="/assets/incense.gif" alt="Avatar" class="image">
       <div class="overlay">
         <div class="text">Burning incense (一炷香)<br>(p5.js)</div>
