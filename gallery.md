@@ -103,8 +103,8 @@ permalink: /gallery/
     </div>
 
     <div class="container">
-      <a href="/media/art/2018/05/10/Incense.html" >
-      <img src="http://cmuems.com/2018/60212s/joxin/02/09/joxin-clock/" alt="Avatar" class="image">
+      <a href="http://cmuems.com/2018/60212s/joxin/02/09/joxin-clock/" >
+      <img src="/assets/incense.gif" alt="Avatar" class="image">
       <div class="overlay">
         <div class="text">Burning incense (一炷香)<br>(p5.js)</div>
       </div>
