@@ -2,7 +2,7 @@
 layout: post
 title: "Translations"
 categories: Theater
-meta: "Opened as part of Playground (CMU School of Drama's annual student work festival"
+meta: "Carnegie Mellon University, School of Drama's annual student independent work festival"
 time: "December 2017"
 ---
 

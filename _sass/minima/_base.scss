@@ -54,7 +54,7 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  width: 100%;
   vertical-align: middle;
 }
 
@@ -128,11 +128,9 @@ a {
  */
 blockquote {
   color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
-  letter-spacing: -1px;
-  font-style: italic;
+  border-left: 2px solid $grey-color-light;
+  padding-left: $spacing-unit / 3;
+  @include relative-font-size(0.95);
 
   > :last-child {
     margin-bottom: 0;

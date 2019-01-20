@@ -42,8 +42,8 @@ theme: minima
 
 header_pages:
   - index.md
+  - gallery.md
   - resume.md
-  - journey.md
 
 plugins:
  - jekyll-feed

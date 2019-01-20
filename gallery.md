@@ -8,6 +8,28 @@ permalink: /gallery/
 
 **Theater**
 
+<div class="row">
+    <div class="container">
+      <a href="/theater/2018/10/04/WoW.html" >
+      <img src="/assets/WoW_6.jpg" alt="Avatar" class="image">
+      <div class="overlay">
+        <div class="text"> The Way Out West<br>(projection and interaction design) </div>
+      </div>
+      </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+      <a href="/theater/2017/11/05/Sock.html" >
+      <img src="/assets/sock_thumb.jpeg" alt="Avatar" class="image">
+      <div class="overlay">
+        <div class="text"> How to Put on a Sock<br>(projection and interaction design) </div>
+      </div>
+      </a>
+    </div>
+</div>
+
 <div class="row"> 
 	<div class="container">
 	  <a href="/theater/2017/12/10/Translations.html" >
@@ -19,25 +41,16 @@ permalink: /gallery/
 	</div>
 </div>
 
-<div class="row">
-    <div class="container">
-      <a href="/theater/2017/11/05/Sock.html" >
-      <img src="/assets/sock_thumb.jpeg" alt="Avatar" class="image">
-      <div class="overlay">
-        <div class="text"> How to Put on a Sock<br>(video and media design) </div>
-      </div>
-      </a>
-    </div>
-</div>
+<br>
 
-#### [The People Upstairs]() (Jan-Feb 2019, ongoing)
-- Devised theater piece about the life of sex workers in the United States
-- Opening in February 2019 at Playground, CMU's student independent theater festival
-
-#### [Regenesis]() (Nov 2018)
+#### Regenesis (Nov 2018)
 - Libretto by Daniel Burns, Music by Ziyu Wang
 - Media design for 30-minute opera about a story set in the future, where archeologists come to earth to understand humanity
-- Opened in Nov 2018 at Compos-it Opera Festival
+- Opened at Compos-it Opera Festival
+
+#### The People Upstairs (Jan-Feb 2019, ongoing)
+- Devised theater piece about the life of sex workers in the United States
+- Opening in February 2019 at Playground, CMU's student independent theater festival
 
 
 <br>
@@ -90,10 +103,10 @@ permalink: /gallery/
     </div>
 
     <div class="container">
-      <a href="http://cmuems.com/2018/60212s/joxin/02/09/joxin-clock/" >
+      <a href="/media/art/2018/05/10/incense.html" >
       <img src="/assets/incense.gif" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Burning incense (一炷香)</div>
+        <div class="text">Burning incense (一炷香)<br>(p5.js)</div>
       </div>
       </a>
     </div>
@@ -113,13 +126,13 @@ permalink: /gallery/
 **Research**
 
 ##### Research-based activism
-#### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020, ongoing)  
+#### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020)  
 - Examination of the history of interdisciplinary education and research at Carnegie Mellon University
-- Design and facilitation of workshops and games to disrupt existing discipline-based social networks
+- Design and facilitation of workshops and games to facilitate interdisciplinary discussions and collaborations among undergraduate students
 - Funded by the [Fifth Year Scholarship Program](https://www.cmu.edu/student-affairs/dean/fifth/index.html) at CMU
 
 ##### Social computing research  
-#### [A Study on the Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019, ongoing)
+#### [The Spread of Opinion and Factual Stories on Social Media](https://github.com/joyceeexinyiwang/SCSThesis) (2018-2019, ongoing)
 - School of Computer Science Senior Honors Thesis
 - Advised by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html) (Institute for Software Research)
 

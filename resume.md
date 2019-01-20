@@ -14,7 +14,7 @@ permalink: /cv/
 
 **Education**
 
-`2015–2019` Carnegie Mellon University, B.C.S.A in Computer Science and Drama (Video and Media Design)  
+`2015–2019` Carnegie Mellon University, B.C.S.A. in Computer Science and Drama (Video and Media Design)  
 `2012–2015` Phillips Academy  
 `Summer 2013` University of Southern California, School of Cinematic Arts  
 `2009-2012` 人大附中, Beijing
@@ -38,11 +38,17 @@ permalink: /cv/
 `2017` BXA Small Grant (Carnegie Mellon University)  
 `2014-2015` CAMD Scholarship (Phillips Academy)  
 
+**Skills**
+
+*Software Engineering*: c++, c#, python, java, javascript, web development, Android development  
+*Art/Design*: Unity, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Photoshop, Adobe Premiere, Adobe After Effects  
+*Languages*: Mandarin (native proficiency), French (preliminary proficiency)
+
 **Involvements**
 
 `Sep 2017-present` *CMU Listens* co-director  
-&emsp;new student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community 
+New student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community 
 
 `Jan 2017-present` *IMPAQT*  
-&emsp;facilitate communication and collaboration between Carnegie Mellon University's Qatar and Pittsburgh campuses  
-&emsp;sponsored by Qatar Foundation and Carnegie Mellon University
+Facilitate close connections between Carnegie Mellon University's Qatar and Pittsburgh campuses  
+Sponsored by Qatar Foundation and Carnegie Mellon University
