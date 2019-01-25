@@ -5,8 +5,7 @@ permalink: /cv/
 
 ---
 
-# Resume 
-[_pdf](/assets/joycewang_0107.pdf)
+# [Resume (pdf)](/assets/joycewang_d.pdf)
 
 <br>
 
@@ -41,7 +40,7 @@ permalink: /cv/
 **Skills**
 
 *Software Engineering*: c++, c#, python, java, javascript, web development, Android development  
-*Art/Design*: Unity, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Photoshop, Adobe Premiere, Adobe After Effects  
+*Art/Design*: Unity, Cinema 4D, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Photoshop, Adobe Premiere, Adobe After Effects, carpentry, sewing, scenic painting  
 *Languages*: Mandarin (native proficiency), French (preliminary proficiency)
 
 **Involvements**

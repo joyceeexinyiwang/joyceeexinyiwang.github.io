@@ -6,14 +6,14 @@ permalink: /gallery/
 
 ---
 
-**Theater**
+## Theater
 
 <div class="row">
     <div class="container">
       <a href="/theater/2018/10/04/WoW.html" >
       <img src="/assets/WoW_6.jpg" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text"> The Way Out West<br>(projection and interaction design) </div>
+        <div class="text"><b>The Way Out West</b><br>-Projection and Interaction Design-<br>-Millumin, Adobe After Effects, Processing-</div>
       </div>
       </a>
     </div>
@@ -24,7 +24,7 @@ permalink: /gallery/
       <a href="/theater/2017/11/05/Sock.html" >
       <img src="/assets/sock_thumb.jpeg" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text"> How to Put on a Sock<br>(projection and interaction design) </div>
+        <div class="text"><b>How to Put on a Sock</b><br>-Projection and Interaction Design-<br>-Millumin, Adobe After Effects, Node.js, p5.js-</div>
       </div>
       </a>
     </div>
@@ -35,7 +35,7 @@ permalink: /gallery/
 	  <a href="/theater/2017/12/10/Translations.html" >
 	  <img src="/assets/translations_1.gif" alt="Avatar" class="image">
 	  <div class="overlay">
-	    <div class="text">Translations<br>(directing, performing)</div>
+	    <div class="text"><b>Translations</b><br>-Directing and Performing-<br>-Millumin, Adobe Premiere-</div>
 	  </div>
 	  </a>
 	</div>
@@ -55,7 +55,7 @@ permalink: /gallery/
 
 <br>
 
-**Media art**
+## Media art
 
 <div class="row"> 
 
@@ -65,7 +65,7 @@ permalink: /gallery/
       <a href="/mediaart/2017/05/01/Frail.html" >
       <img src="/assets/frail_thumb.jpg" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Frail but Indomitable<br>(interactive installation inspired by Goya's painting)</div>
+        <div class="text"><b>Frail but Indomitable</b><br>interactive installation, Max/MSP, Kinect, Processing</div>
       </div>
       </a>
     </div>
@@ -74,7 +74,7 @@ permalink: /gallery/
       <a href="http://cmuems.com/2018/60212s/joxin/03/04/joxin-mocap/" >
       <img src="/assets/spider.gif" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Human Skeleton -> Monster<br>(mini mocap project)</div>
+        <div class="text"><b>Human Skeleton-Converted Monster</b><br>motion capture, Three.js</div>
       </div>
       </a>
     </div>
@@ -83,7 +83,7 @@ permalink: /gallery/
       <a href="http://cmuems.com/2018/60212s/joxin/02/15/joxin-asemic/" >
       <img src="/assets/asemic.JPG" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Asemic writing using AxiDraw plotter</div>
+        <div class="text"><b>Asemic writing</b><br>AxiDraw plotter</div>
       </div>
       </a>
     </div>
@@ -97,7 +97,7 @@ permalink: /gallery/
       <a href="/media/art/2018/05/10/PopUpAR.html" >
       <img src="/assets/popup_img_2.png" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Süleymanname: A Pop-Up Illuminated Manuscript<br>(mini augmented reality project)</div>
+        <div class="text"><b>Süleymanname: A Pop-Up Illuminated Manuscript</b><br>augmented reality, Unity, Vuforia</div>
       </div>
       </a>
     </div>
@@ -106,7 +106,7 @@ permalink: /gallery/
       <a href="http://cmuems.com/2018/60212s/joxin/02/09/joxin-clock/" >
       <img src="/assets/incense.gif" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Burning incense (一炷香)<br>(p5.js)</div>
+        <div class="text"><b>Burning incense (一炷香)</b><br>p5.js</div>
       </div>
       </a>
     </div>
@@ -115,7 +115,7 @@ permalink: /gallery/
       <a href="/conceptual/writing/2016/10/10/Streets.html" >
       <img src="/assets/streets_thumb.gif" alt="Avatar" class="image">
       <div class="overlay">
-        <div class="text">Streets<br>(conceptual writing, web art)</div>
+        <div class="text"><b>Streets</b><br>Python, Django web framework</div>
       </div>
       </a>
     </div>
@@ -123,7 +123,9 @@ permalink: /gallery/
   </div>
 </div>
 
-**Research**
+<br>
+
+## Research
 
 ##### Research-based activism
 #### [Facilitation of Interdisciplinary Collaboration Among Undergraduate Students at CMU](https://github.com/joyceeexinyiwang/FYS) (2018-2020)  
