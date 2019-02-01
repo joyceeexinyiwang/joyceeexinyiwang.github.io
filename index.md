@@ -19,7 +19,7 @@ list_title: posts
 
 I am a creative technologist, theater lover, and adisciplinary researcher. I anchor my work in its relation to people, and I strive to tell stories that delight and inspire. At the moment, I am studying Computer Science and Drama at Carnegie Mellon University.
 
-I was born and raised in Beijing. When I was 15, I came to the US for high school in Massachusetts. Since 2015, I've been studying at Carnegie Mellon University as part of an interdisciplinary program called B.C.S.A., exploring the interplay of technology, media, and storytelling. 
+I was born and raised in Beijing. When I was 15, I came to the US for high school in Massachusetts. Since 2015, I've been studying at Carnegie Mellon University in an interdisciplinary program called B.C.S.A., exploring the interplay of technology, media, and storytelling. 
 
 I am always curious about how people who think differently can learn from each other's minds. Many of my recent and current projects are inherently about decoding and bridging differences, through means such as performance, computation, community dialogues, and research. Last year, I directed an experimental performance piece about language and empathy. I worked at Disney Research for a summer and made a tool that helps creative writers and engineers to collaboratively author personable AI agents. In school, I lead an initiative dedicated to helping students develop active listening skills. I am also being funded by my university to work on a year-long project that aims to facilitate interdisciplinary studies for undergraduate students.
 
