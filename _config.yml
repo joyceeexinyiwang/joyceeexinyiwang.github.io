@@ -42,7 +42,7 @@ theme: minima
 
 header_pages:
   - index.md
-  - gallery.md
+  # - gallery.md
   - resume.md
 
 plugins:
