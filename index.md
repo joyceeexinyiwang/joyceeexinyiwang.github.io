@@ -26,7 +26,7 @@ I adore [reading](/readings), museums, new environments, and being active. My fa
 <!-- I am always curious about how people who think differently can empower each other. Many of my recent and current projects are inherently about decoding, bridging, and celebrating differences, through means such as performance, computation, community dialogues, and research. Last year, I directed an experimental performance piece about language and empathy. I worked at Disney Research for a summer and made a tool that helps creative writers and engineers collaboratively author AI agents. In school, I lead an initiative dedicated to helping students develop active listening skills. I am also being funded by my university to work on a year-long project that aims to facilitate interdisciplinary studies for undergraduate students.
 
  -->
-[\_resume\_](/cv)
+[\_cv\_](/cv)
 
 <br>
 
@@ -36,7 +36,7 @@ I adore [reading](/readings), museums, new environments, and being active. My fa
 <br>
 
 ##### social computing research, 2018-2019, ongoing
-An Ethnography of Op-eds on Social Media (Computer Science Senior Honors Thesis)
+An Ethnography of Opinion News Articles on Social Media (Computer Science Senior Honors Thesis)
 
 ##### community building, 2018-2020, ongoing
 Forming interdisciplinary student community and mentorship network (funded by Fifth Year Scholarship, CMU)

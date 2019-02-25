@@ -5,7 +5,9 @@ permalink: /cv/
 
 ---
 
-# [Resume (pdf)](/assets/joycewang_d.pdf)
+# [Research resume (pdf)](/assets/joycewang_r_022219.pdf)
+# [Professional resume (pdf)](/assets/joycewang_pm_022219.pdf)
+# [Creative resume (pdf)](/assets/joycewang_creative_022219.pdf)
 
 <br>
 
