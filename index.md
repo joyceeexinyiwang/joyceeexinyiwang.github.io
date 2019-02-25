@@ -63,6 +63,6 @@ Reimagining collaborative authoring workflow for personable AI agents (at Disney
 "How to Put on a Sock" (at CMU) -[documentation](/theater/2017/11/05/Sock.html)
 
 ##### sociology research, 2014-2015
-The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) [-paper](/research/2015/01/20/CAMD.html)
+The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
 
 [--> gallery of theater and media art projects](/gallery)
