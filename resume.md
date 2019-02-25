@@ -9,8 +9,6 @@ permalink: /cv/
 
 <br>
 
-# CV
-
 **Education**
 
 `2015–2019` Carnegie Mellon University, B.C.S.A. in Computer Science and Drama (Video and Media Design)  

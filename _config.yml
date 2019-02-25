@@ -43,7 +43,8 @@ theme: minima
 header_pages:
   - index.md
   # - gallery.md
-  - resume.md
+  # - readings.md
+  # - resume.md
 
 plugins:
  - jekyll-feed
