@@ -28,6 +28,8 @@ I adore [reading](/readings), museums, new environments, and being active. My fa
  -->
 [\_cv\_](/cv)
 
+[\_portfolio\_](/gallery)
+
 <br>
 
 <br>
@@ -64,5 +66,3 @@ Reimagining collaborative authoring workflow for personable AI agents (at Disney
 
 ##### sociology research, 2014-2015
 The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
-
-[--> gallery of theater and media art projects](/gallery)
