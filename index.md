@@ -19,16 +19,17 @@ list_title: posts
 
 I am an adisciplinary researcher interested in media, technology, and community building. 
 
-I was born and raised in Beijing. When I was 15, I came to the US for high school in Massachusetts. At the moment, I am studying Computer Science and Drama at Carnegie Mellon University. 
+I was born and raised in Beijing. At the moment, I am studying Computer Science and Drama at Carnegie Mellon University. 
 
-I adore [reading](/readings), museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself in between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
+I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself in between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
 
 <!-- I am always curious about how people who think differently can empower each other. Many of my recent and current projects are inherently about decoding, bridging, and celebrating differences, through means such as performance, computation, community dialogues, and research. Last year, I directed an experimental performance piece about language and empathy. I worked at Disney Research for a summer and made a tool that helps creative writers and engineers collaboratively author AI agents. In school, I lead an initiative dedicated to helping students develop active listening skills. I am also being funded by my university to work on a year-long project that aims to facilitate interdisciplinary studies for undergraduate students.
 
  -->
-[\_cv\_](/cv)
 
-[\_portfolio\_](/gallery)
+Feel free to take a look at my [resume](/cv), or my [portfolio](/gallery) of theater and media art projects. I also keep a list of [fun readings](/readings)  I did recently. 
+
+Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- hope I get to know you someday too.
 
 <br>
 
