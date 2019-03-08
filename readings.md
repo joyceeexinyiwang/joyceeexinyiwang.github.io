@@ -17,6 +17,18 @@ list_title: posts
 
 <br>
 
+##### 2/26/2019
+Toward a discursive marketplace of ideas: Reimaging the marketplace metaphor in the era of social media, fake news, and artificial intelligence (Jared Schroeder, 2018)
+
+##### 2/26/2019
+The Rise of Engineers in Russia (Alfred J. Rieber, 1990)
+
+##### 2/25/2019
+The Life of the Constructivist Theatrical Object (Roann Barris, 2013)
+
+##### 2/23/2019
+A Profitable Public Sphere: The Creation of the New York Times Op-Ed Page (Michael J. Socolow, 2010)
+
 ##### 2/21/2019
 Retrofitting Le Corbusier's The City of Tomorrow the Republic of China (Lai Jing Chu, 2018)
 

@@ -39,7 +39,7 @@ Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- h
 <br>
 
 ##### social computing research, 2018-2019, ongoing
-An Ethnography of Opinion News Articles on Social Media (Computer Science Senior Honors Thesis)
+An Online Ethnographic Study of Op-eds on Social Media (Computer Science Senior Honors Thesis, adviced by Prof. Kathleen Carley)
 
 ##### community building, 2018-2020, ongoing
 Forming interdisciplinary student community and mentorship network (funded by Fifth Year Scholarship, CMU)
@@ -57,7 +57,7 @@ CMU Listens: facilitating dialogues and workshops to help people in the CMU comm
 "The Way Out West" (at CMU) -[documentation](/theater/2018/10/04/WoW.html)
 
 ##### AI/HCI research, 2018 summer
-Reimagining collaborative authoring workflow for personable AI agents (at Disney Research)
+Reimagining collaborative workflow for authoring personable AI agents (adviced by Mubbasir Kapadia at Disney Research)
 
 ##### experimental performance, Sep-Oct 2017
 "Translations" (at Playground theater festival, CMU) -[documentation](/theater/2017/12/10/Translations.html)
