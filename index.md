@@ -17,7 +17,7 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I am an aspiring researcher and ethnographer fascinated with data practices, cultural narratives around technology, and community building.
+I am an antidisciplinary student researcher interested in data practices, cultural narratives around technology, and community building.
 
 I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
