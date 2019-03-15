@@ -17,9 +17,9 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I am an adisciplinary researcher interested in media, technology, and community building. 
+I am an adisciplinary researcher fascinated with cultural narratives of technology, data practices, and ethnography.
 
-I was born and raised in Beijing. At the moment, I am studying Computer Science and Drama at Carnegie Mellon University. 
+I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
 I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself in between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
 
@@ -48,7 +48,7 @@ Forming interdisciplinary student community and mentorship network (funded by Fi
 CMU Listens: facilitating dialogues and workshops to help people in the CMU community develop active listening skills
 
 ##### media design for devised theater, Jan-Feb 2019
-"Objects in the Mirror are Closer Than They Appear" (at Playground theater festival, CMU)
+"Objects in the Mirror are Closer Than They Appear" (inspired by true stories of American sex trafficking survivors)
 
 ##### projection design for opera, Nov 2018
 "Renegesis" (at Compos-it Opera Festival, CMU)
@@ -57,13 +57,13 @@ CMU Listens: facilitating dialogues and workshops to help people in the CMU comm
 "The Way Out West" (at CMU) -[documentation](/theater/2018/10/04/WoW.html)
 
 ##### AI/HCI research, 2018 summer
-Reimagining collaborative workflow for authoring personable AI agents (adviced by Mubbasir Kapadia at Disney Research)
+Reimagining workflow for creative writers and engineers to collaboratively author personable AI agents (at Disney Research)
 
 ##### experimental performance, Sep-Oct 2017
-"Translations" (at Playground theater festival, CMU) -[documentation](/theater/2017/12/10/Translations.html)
+"Translations" (inspired by the story of Cai Shaotian, a Chinese student actor living in New York) -[documentation](/theater/2017/12/10/Translations.html)
 
 ##### projection and interaction design for play, Sep-Oct 2017
 "How to Put on a Sock" (at CMU) -[documentation](/theater/2017/11/05/Sock.html)
 
-##### sociology research, 2014-2015
+##### ethnography research, 2014-2015
 The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
