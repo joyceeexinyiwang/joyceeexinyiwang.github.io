@@ -17,7 +17,7 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I am a student researcher interested in cultural narratives around science, technology, and media.
+I am an antidisciplinary student/researcher interested in cultural narratives around science, technology, and media.
 
 I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
@@ -57,7 +57,7 @@ CMU Listens: facilitating dialogues and workshops for developing active listenin
 "The Way Out West" (written by [Liza Birkenmeier](https://newplayexchange.org/users/1193/liza-birkenmeier), directed by [Kim Weild](https://www.kimweild.com/), performed at CMU) -[documentation](/theater/2018/10/04/WoW.html)
 
 ##### AI/HCI research, 2018 summer
-Reimagining workflow for creative writers and engineers to collaboratively author personable AI agents (advised by Dr. Mubbasir Kapadia, at Disney Research)
+Designing collaborative workflow for authoring conversational AI (advised by Dr. Mubbasir Kapadia at [Disney Research](https://la.disneyresearch.com/), presenting extended abstract at [IVA 2019](https://iva2019.sciencesconf.org/))
 
 ##### experimental performance, Sep-Oct 2017
 "Translations" (created by yours truly) -[documentation](/theater/2017/12/10/Translations.html)
