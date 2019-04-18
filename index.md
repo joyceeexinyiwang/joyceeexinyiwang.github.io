@@ -35,17 +35,23 @@ Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- h
 
 <br>
 
-#### My work
+#### Research
 <br>
 
 ##### social computing / online ethnography research, 2018-2019, ongoing
 An Online Ethnographic Study of Op-eds on Social Media (Computer Science Senior Honors Thesis, adviced by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html))
 
-##### community building, 2018-2020, ongoing
-Forming interdisciplinary student community and mentorship network (funded by Fifth Year Scholarship, CMU)
+##### AI/HCI research, 2018 summer
+Designing collaborative workflow for authoring conversational AI (advised by Dr. Mubbasir Kapadia at [Disney Research](https://la.disneyresearch.com/), presenting extended abstract at [IVA 2019](https://iva2019.sciencesconf.org/))
 
-##### community building, 2018-2020, ongoing
-CMU Listens: facilitating dialogues and workshops for developing active listening skills
+
+##### ethnography research, 2014-2015
+The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
+
+<br>
+
+#### Theater
+<br>
 
 ##### media design for devised theater, Jan-Feb 2019
 "Objects in the Mirror are Closer Than They Appear" (written by [Hannah Manikowski](https://about.me/hannahmanikowski))
@@ -56,14 +62,21 @@ CMU Listens: facilitating dialogues and workshops for developing active listenin
 ##### projection design for play, Sep-Oct 2018
 "The Way Out West" (written by [Liza Birkenmeier](https://newplayexchange.org/users/1193/liza-birkenmeier), directed by [Kim Weild](https://www.kimweild.com/), performed at CMU) -[documentation](/theater/2018/10/04/WoW.html)
 
-##### AI/HCI research, 2018 summer
-Designing collaborative workflow for authoring conversational AI (advised by Dr. Mubbasir Kapadia at [Disney Research](https://la.disneyresearch.com/), presenting extended abstract at [IVA 2019](https://iva2019.sciencesconf.org/))
-
 ##### experimental performance, Sep-Oct 2017
 "Translations" (created by yours truly) -[documentation](/theater/2017/12/10/Translations.html)
 
 ##### projection and interaction design for play, Sep-Oct 2017
 "How to Put on a Sock" (created and directed by [Rachel Karp](https://www.rachelkarp.com/), performed at CMU) -[documentation](/theater/2017/11/05/Sock.html)
 
-##### ethnography research, 2014-2015
-The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
+<br>
+
+#### Community Building
+<br>
+
+##### research-based activism, 2018-2020, ongoing
+Forming interdisciplinary student community and mentorship network (funded by Fifth Year Scholarship, CMU)
+
+##### campus activism, 2018-2020, ongoing
+CMU Listens: facilitating dialogues and workshops for developing active listening skills
+
+
