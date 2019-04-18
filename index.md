@@ -49,7 +49,6 @@ Designing collaborative workflow for authoring conversational AI (advised by Dr.
 The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
 
 <br>
-
 #### Theater
 <br>
 
@@ -69,8 +68,7 @@ The Education of Migrant Children in Mainland China (funded by the Community and
 "How to Put on a Sock" (created and directed by [Rachel Karp](https://www.rachelkarp.com/), performed at CMU) -[documentation](/theater/2017/11/05/Sock.html)
 
 <br>
-
-#### Community Building
+#### Community building
 <br>
 
 ##### research-based activism, 2018-2020, ongoing
@@ -79,4 +77,4 @@ Forming interdisciplinary student community and mentorship network (funded by Fi
 ##### campus activism, 2018-2020, ongoing
 CMU Listens: facilitating dialogues and workshops for developing active listening skills
 
-
+<br>
