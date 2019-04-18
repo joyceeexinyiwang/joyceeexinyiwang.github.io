@@ -17,7 +17,7 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I am an antidisciplinary student researcher interested in data practices, cultural narratives around technology, and community building.
+I am a student researcher interested in cultural narratives around science, technology, and media.
 
 I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
@@ -38,32 +38,32 @@ Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- h
 #### My work
 <br>
 
-##### social computing research, 2018-2019, ongoing
-An Online Ethnographic Study of Op-eds on Social Media (Computer Science Senior Honors Thesis, adviced by Prof. Kathleen Carley)
+##### social computing / online ethnography research, 2018-2019, ongoing
+An Online Ethnographic Study of Op-eds on Social Media (Computer Science Senior Honors Thesis, adviced by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html))
 
 ##### community building, 2018-2020, ongoing
 Forming interdisciplinary student community and mentorship network (funded by Fifth Year Scholarship, CMU)
 
 ##### community building, 2018-2020, ongoing
-CMU Listens: facilitating dialogues and workshops to help people in the CMU community develop active listening skills
+CMU Listens: facilitating dialogues and workshops for developing active listening skills
 
 ##### media design for devised theater, Jan-Feb 2019
-"Objects in the Mirror are Closer Than They Appear" (inspired by true stories of American sex trafficking survivors)
+"Objects in the Mirror are Closer Than They Appear" (written by [Hannah Manikowski](https://about.me/hannahmanikowski))
 
 ##### projection design for opera, Nov 2018
-"Renegesis" (at Compos-it Opera Festival, CMU)
+"Renegesis" (libretto by [D. T. Burns](http://dtburns.com/), composed by Ziyu Wang, performed at Compos-it Opera Festival, CMU )
 
 ##### projection design for play, Sep-Oct 2018
-"The Way Out West" (at CMU) -[documentation](/theater/2018/10/04/WoW.html)
+"The Way Out West" (written by [Liza Birkenmeier](https://newplayexchange.org/users/1193/liza-birkenmeier), directed by [Kim Weild](https://www.kimweild.com/), performed at CMU) -[documentation](/theater/2018/10/04/WoW.html)
 
 ##### AI/HCI research, 2018 summer
-Reimagining workflow for creative writers and engineers to collaboratively author personable AI agents (at Disney Research)
+Reimagining workflow for creative writers and engineers to collaboratively author personable AI agents (advised by Dr. Mubbasir Kapadia, at Disney Research)
 
 ##### experimental performance, Sep-Oct 2017
-"Translations" (inspired by the story of Cai Shaotian, a Chinese student actor living in New York) -[documentation](/theater/2017/12/10/Translations.html)
+"Translations" (created by yours truly) -[documentation](/theater/2017/12/10/Translations.html)
 
 ##### projection and interaction design for play, Sep-Oct 2017
-"How to Put on a Sock" (at CMU) -[documentation](/theater/2017/11/05/Sock.html)
+"How to Put on a Sock" (created and directed by [Rachel Karp](https://www.rachelkarp.com/), performed at CMU) -[documentation](/theater/2017/11/05/Sock.html)
 
 ##### ethnography research, 2014-2015
 The Education of Migrant Children in Mainland China (funded by the Community and Multicultural Development office at Phillips Academy) -[info and paper](/research/2015/01/20/CAMD.html)
