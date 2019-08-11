@@ -17,8 +17,6 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I am an antidisciplinary student/researcher interested in cultural narratives around science, technology, and media.
-
 I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
 I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself in between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
