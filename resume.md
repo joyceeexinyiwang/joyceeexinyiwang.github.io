@@ -1,22 +1,24 @@
 ---
+
 layout: page
 title: resume/cv
 permalink: /cv/
 
 ---
 
-# [Research resume (pdf)](/assets/joycewang_r_022519.pdf)
-# [Professional resume (pdf)](/assets/joycewang_pm_022519.pdf)
-# [Creative resume (pdf)](/assets/joycewang_creative_022519.pdf)
+# CV
 
 <br>
 
 **Education**
 
+`2019-2020` Fifth Year Scholarship (academic and community building fellowship at Carnegie Mellon University)  
 `2015–2019` Carnegie Mellon University, B.C.S.A. in Computer Science and Drama (Video and Media Design)  
 `2012–2015` Phillips Academy  
 `Summer 2013` University of Southern California, School of Cinematic Arts  
 `2009-2012` 人大附中, Beijing
+
+<br>
 
 **Work experience**
 
@@ -26,6 +28,9 @@ permalink: /cv/
 `May–July 2016` Human-Computer Interaction Institute (CMU) - Research Assistant with Professor Jason Hong  
 `Sep 2016–May 2017` School of Drama (CMU) - production crew member for theater productions all season  
 `Sep 2015–July 2016` Miller Gallery - student art assistant  
+
+<br>
+
 
 **Grants and Awards**
 
@@ -37,17 +42,40 @@ permalink: /cv/
 `2017` BXA Small Grant (Carnegie Mellon University)  
 `2014-2015` CAMD Scholarship (Phillips Academy)  
 
+<br>
+
+
+**Presentation**
+
+`June 2019` ACM Intelligent Virtual Agents Conference, *Conversational Approach to the Creative Authoring of Intelligent Virtual Characters*, Paris  
+`May 2019` Meeting of the Minds, *Curating the Public Sphere: An Online
+Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh PA  
+`April 2019 ` Poster presentation to Knight Foundation, *Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh, PA  
+`May 2018` Meeting of the Minds, *Translations: a Chinese Acting Student in New York*, Pittsburgh PA
+
+<br>
+
+
 **Skills**
 
-*Software Engineering*: c++, c#, python, java, javascript, web development, Android development  
-*Art/Design*: Unity, Cinema 4D, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Photoshop, Adobe Premiere, Adobe After Effects, carpentry, sewing, scenic painting  
+*Software Engineering*: python, java, c++, c#, python, javascript, HTML/css, Node.js
+
+*Art/Design*: Unity, Cinema 4D, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Ps/Pr/Ae, carpentry, sewing, scenic painting
+
 *Languages*: Mandarin (native proficiency), French (preliminary proficiency)
 
+<br>
+
+
 **Involvements**
+
+`Sep 2018-present` *Interdisciplinary Community Initiative* founder
+New initiative dedicated to the forming of interdisciplinary student community and mentorship network.  
+Organizing hackathons and creating video series with interdisciplinary faculty members
 
 `Sep 2017-present` *CMU Listens* co-director  
 New student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community 
 
 `Jan 2017-present` *IMPAQT*  
-Facilitate close connections between Carnegie Mellon University's Qatar and Pittsburgh campuses  
+Visited Carnegie Mellon University's Qatar campus to attend workshops and programs that facilitate student cultural exchange  
 Sponsored by Qatar Foundation and Carnegie Mellon University

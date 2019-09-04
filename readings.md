@@ -13,9 +13,25 @@ list_title: posts
 
 ---
 
-#### Recent fun reads
+# Recent fun reads
 
 <br>
+
+##### 9/-/2019
+Cities of Tomorrow: An Intellectual History of Urban Planning and Design in the Twentieth Century (Peter Hall)
+
+##### 9/1/2019
+The Image Object Post-Internet (Artie Vierkant)
+
+##### 9/1/2019
+Performative Acts and Gender Constitution: An Essay in Phenomenology
+and Feminist Theory (Judith Butler)
+
+##### 8/-/2019
+四世同堂 (老舍)
+
+##### 3/-/2019
+The Gin Closet (Leslie Jamison)
 
 ##### 2/26/2019
 Toward a discursive marketplace of ideas: Reimaging the marketplace metaphor in the era of social media, fake news, and artificial intelligence (Jared Schroeder, 2018)
@@ -55,3 +71,6 @@ Ethics Education in Context: A Case Study of Novel Ethics Activities for the CS 
 
 ##### 1/30/2019
 Anatomy of an AI System (Vladan Joler and Kate Crawford, 2018)
+
+##### 12/-／2018
+孽子 (白先勇)
