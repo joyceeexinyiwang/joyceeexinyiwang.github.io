@@ -25,7 +25,7 @@ I adore writing, museums, new environments, and being active. My family and frie
 
  -->
 
-Please check out my work: 
+Please check out my work in... 
 - **[research](#research)**
 - **[media art sketches](#media-art)**
 - **[theater](#theater)**
@@ -42,19 +42,19 @@ Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- h
 ## Research
 
 ##### social computing / online ethnography research, 2018-2019
-**[Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter](/assets/SCSThesis_JoyceWang.pdf)**  
+**[Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter]()**  
 Honors Thesis, adviced by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html).  
-Presented poster to Knight Foundation.  
-[Slides]()
+Presented poster to [Knight Foundation](https://www.cmu.edu/news/stories/archives/2019/july/knight-foundation-disinformation.html).  
+[Full paper](/assets/SCSThesis_JoyceWang.pdf)
 
 ##### AI/HCI research, 2018 summer
-**[Designing collaborative workflow for authoring conversational AI](/assets/IVA_2019_paper_88.pdf)**  
+**[Designing Collaborative Workflow for Authoring Conversational AI](/assets/IVA_2019_paper_88.pdf)**  
 Advised by Dr. Mubbasir Kapadia at Disney Research.  
 Presented extended abstract at [ACM Intelligent Virtual Agent Conference](https://iva2019.sciencesconf.org/), Paris 2019.  
 
 ##### ethnography research, 2014-2015
 **[The Education of Migrant Children in Mainland China](/research/2015/01/20/CAMD.html)**  
-Supported by the Community and Multicultural Development office at Phillips Academy).  
+Supported by the Community and Multicultural Development (CAMD) office at Phillips Academy.  
 
 ##### [back-to-top](#hi-there-my-name-is-joyce-wang-王心怡)
 
@@ -209,7 +209,7 @@ New student initiative dedicated to spreading awareness and competency around ac
 Organized on-campus workshops and off-campus retreats 
 
 ##### cultural exchange program, 2018-2019
-**[IMPACT](https://www.cmu.edu/student-affairs/dean/impaqt/index.html)** (Initiating Meaningful Pittsburgh and Qatar Ties)  
+**[IMPAQT](https://www.cmu.edu/student-affairs/dean/impaqt/index.html)** (Initiating Meaningful Pittsburgh and Qatar Ties)  
 Visited Carnegie Mellon University's Qatar campus to attend workshops and programs that facilitated student cultural exchange  
 Sponsored by Qatar Foundation and Carnegie Mellon University
 
