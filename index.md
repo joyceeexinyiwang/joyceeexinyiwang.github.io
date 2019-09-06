@@ -109,7 +109,7 @@ Supported by the Community and Multicultural Development (CAMD) office at Philli
     </div>
 
     <div class="container">
-      <a href="http://cmuems.com/2018/60212s/joxin/02/09/joxin-clock/" >
+      <a href="/media/art/2018/01/01/Incense.html" >
       <img src="/assets/incense.gif" alt="Avatar" class="image">
       <div class="overlay">
         <div class="text"><b>Burning incense (一炷香)</b><br>p5.js</div>
