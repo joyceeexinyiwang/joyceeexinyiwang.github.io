@@ -19,7 +19,7 @@ list_title: posts
 
 I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
 
-I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself in between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
+I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
 
 <!-- I am always curious about how people who think differently can empower each other. Many of my recent and current projects are inherently about decoding, bridging, and celebrating differences, through means such as performance, computation, community dialogues, and research. Last year, I directed an experimental performance piece about language and empathy. I worked at Disney Research for a summer and made a tool that helps creative writers and engineers collaboratively author AI agents. In school, I lead an initiative dedicated to helping students develop active listening skills. I am also being funded by my university to work on a year-long project that aims to facilitate interdisciplinary studies for undergraduate students.
 
@@ -42,10 +42,10 @@ Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- h
 ## Research
 
 ##### social computing / online ethnography research, 2018-2019
-**[Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter]()**  
+**[Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter](https://vimeo.com/358357818)**  
 Honors Thesis, adviced by [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html).  
-Presented poster to [Knight Foundation](https://www.cmu.edu/news/stories/archives/2019/july/knight-foundation-disinformation.html).  
-[Full paper](/assets/SCSThesis_JoyceWang.pdf)
+Presented poster to the [Knight Foundation](https://www.cmu.edu/news/stories/archives/2019/july/knight-foundation-disinformation.html).  
+[video](https://vimeo.com/358357818) | [full paper](/assets/SCSThesis_JoyceWang.pdf)
 
 ##### AI/HCI research, 2018 summer
 **[Designing Collaborative Workflow for Authoring Conversational AI](/assets/IVA_2019_paper_88.pdf)**  
@@ -200,7 +200,7 @@ Supported by the Community and Multicultural Development (CAMD) office at Philli
 ##### campus activism, 2018-2020, ongoing
 **Interdisciplinary Community Initiative** Founder  
 Encouraging and supporting undergraduate students at CMU to pursue interdisciplinary interests.  
-Organizing hackathons and producing videos showcaseing interdisciplinary faculty work.  
+Organizing hackathons and producing videos showcasing interdisciplinary faculty work.  
 Supported by the Fifth Year Scholarship.
 
 ##### campus activism, 2018-2019

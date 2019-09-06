@@ -50,15 +50,14 @@ permalink: /cv/
 `June 2019` ACM Intelligent Virtual Agents Conference, *Conversational Approach to the Creative Authoring of Intelligent Virtual Characters*, Paris  
 `May 2019` Meeting of the Minds, *Curating the Public Sphere: An Online
 Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh PA  
-`April 2019 ` Poster presentation to Knight Foundation, *Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh, PA  
+`April 2019 ` Poster presentation to the Knight Foundation, *Curating the Public Sphere: An Online Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh, PA  
 `May 2018` Meeting of the Minds, *Translations: a Chinese Acting Student in New York*, Pittsburgh PA
 
 <br>
 
 
 **Skills**
-
-*Software Engineering*: python, java, c++, c#, python, javascript, HTML/css, Node.js
+*Software Engineering*: Python, Java, Javascript, R, C++, C#, HTML/CSS, Node.js
 
 *Art/Design*: Unity, Cinema 4D, Processing/p5.js, Three.js, TouchDesigner, Max/MSP, Millumin, SketchUp, rapid prototyping, Adobe Ps/Pr/Ae, carpentry, sewing, scenic painting
 
@@ -69,12 +68,12 @@ Ethnographic Study of How Op-eds Initiate Discourse on Twitter*, Pittsburgh PA
 
 **Involvements**
 
-`Sep 2018-present` *Interdisciplinary Community Initiative* founder
+`Sep 2018-present` *Interdisciplinary Community Initiative*, founder  
 New initiative dedicated to the forming of interdisciplinary student community and mentorship network.  
 Organizing hackathons and creating video series with interdisciplinary faculty members
 
-`Sep 2017-present` *CMU Listens* co-director  
-New student initiative dedicated to spreading awareness and competency around the importance of active listening, towards the vision of a more inclusive and supportive campus community 
+`Sep 2017-present` *CMU Listens*, co-director  
+New student initiative dedicated to spreading awareness and competency around active listening, towards the vision of a more inclusive and supportive campus community 
 
 `Jan 2017-present` *IMPAQT*  
 Visited Carnegie Mellon University's Qatar campus to attend workshops and programs that facilitate student cultural exchange  
