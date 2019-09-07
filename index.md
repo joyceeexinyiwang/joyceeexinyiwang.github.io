@@ -31,7 +31,7 @@ Please check out my work in...
 - **[theater](#theater)**
 - **[community building](#community-building)**
 
-I also have a [cv](/cv) and I keep a list of [fun readings](/readings) I did recently. 
+Here is my [cv](/cv) and a list of [fun things I read recently](/readings). 
 
 Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- hope I get to know you someday too.
 
