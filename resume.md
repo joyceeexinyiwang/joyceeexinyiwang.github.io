@@ -8,6 +8,8 @@ permalink: /cv/
 
 # CV
 
+[download resume](/assets/xinyiwang_resume_09092019.pdf)
+
 <br>
 
 **Education**
