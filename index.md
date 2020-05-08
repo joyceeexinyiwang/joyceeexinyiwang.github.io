@@ -17,7 +17,7 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
-I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University.
+I was born and raised in Beijing. At the moment, I am an undergrad studying Computer Science and Drama (Video and Media Design track) at Carnegie Mellon University. This fall, I will be joining [Schmidt Futures](https://schmidtfutures.com/) as an Associte Product Manager.
 
 I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
 
@@ -31,9 +31,9 @@ Please check out my work in...
 - **[theater](#theater)**
 - **[community building](#community-building)**
 
-Here is my [cv](/cv) and a list of [fun things I read recently](/readings). 
+More about me [here](/cv). 
 
-Thanks for coming here. [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- hope I get to know you someday too.
+Thanks for visiting! [Shoot me a message](mailto:joycexinyiwang@cmu.edu) -- hope I get to know you someday too.
 
 <br>
 
