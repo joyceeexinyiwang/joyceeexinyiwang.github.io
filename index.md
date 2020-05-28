@@ -17,13 +17,10 @@ list_title: posts
 
 # Hi there, my name is Joyce Wang (王心怡).
 
+This fall, I will be joining [Schmidt Futures](https://schmidtfutures.com/) as an Associate Product Manager.
+
 I was born and raised in Beijing. Recently I graduated from Carnegie Mellon University, where I studied Computer Science and Drama. 
 
-This fall, I will be joining [Schmidt Futures](https://schmidtfutures.com/) as an Associte Product Manager.
-
-I adore writing, museums, new environments, and being active. My family and friends are the most important part of my life. Often finding myself between various cultural and intellectual spaces, I try to find a balance between different parts of my identity and live as honestly as I can.
-
-<!-- I am always curious about how people who think differently can empower each other. Many of my recent and current projects are inherently about decoding, bridging, and celebrating differences, through means such as performance, computation, community dialogues, and research. Last year, I directed an experimental performance piece about language and empathy. I worked at Disney Research for a summer and made a tool that helps creative writers and engineers collaboratively author AI agents. In school, I lead an initiative dedicated to helping students develop active listening skills. I am also being funded by my university to work on a year-long project that aims to facilitate interdisciplinary studies for undergraduate students.
 
  -->
 
