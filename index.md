@@ -22,8 +22,6 @@ This fall, I will be joining [Schmidt Futures](https://schmidtfutures.com/) as a
 I was born and raised in Beijing. Recently I graduated from Carnegie Mellon University, where I studied Computer Science and Drama. 
 
 
- -->
-
 Please check out my work in... 
 - **[research](#research)**
 - **[media art sketches](#media-art)**
