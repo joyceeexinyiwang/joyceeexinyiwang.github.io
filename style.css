@@ -1,0 +1,148 @@
+body {
+	font-family: "Courier";
+	color: black;
+	line-height: 1.2;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 15px;
+	color: rgb(227,28,121);
+;
+}
+
+p {
+}
+
+
+a {
+	color: black;
+}
+
+a:link {
+}
+
+a:active {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+o {
+	color: rgb(227,28,121);
+}
+
+.main {
+	padding-top: 50px;
+	padding-left: 10%;
+	padding-bottom: 50px;
+	width: 40%;
+	position: absolute;
+	z-index: -100;
+}
+
+.cv {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.menu {
+}
+
+.title {
+	padding-bottom: 50px;
+}
+
+.about {
+	padding-left: 20px;
+}
+
+.title:hover .about {
+}
+
+
+.project {
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.project:hover {
+	font-weight: bold;
+}
+
+.year {
+	padding-top: 28px; 
+	font-weight: bold;
+}
+
+.info {
+	padding-left: 10px;
+	font-weight: normal;
+	display: block;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.info a {
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.project .subproject {
+	padding-left: 20px;
+	padding-top: 20px;
+	font-weight: normal;
+}
+
+.project .subproject:hover {
+	font-weight: bold;
+}
+
+@media only screen and (max-width: 800px) {
+  .main {
+  	padding-left: 5%;
+    width: 90%;
+  }
+}
+
+
+
+
+
+.me .hidden {
+	display: none;
+}
+
+.me:hover .hidden {
+	display: block;
+	position: fixed;
+	left: 45%;
+	top:30%;
+}
+
+.project .hidden {
+	display: none;
+}
+
+.project:hover .hidden {
+	display: block;
+	position: fixed;
+	left: 45%;
+	top:30%;
+}
+
+.project .subproject .hidden {
+	display: none;
+}
+
+.project .subproject:hover .hidden {
+	display: block;
+	position: fixed;
+	left: 45%;
+	top:30%;
+}
