@@ -103,14 +103,6 @@ o {
 	font-weight: bold;
 }
 
-@media only screen and (max-width: 800px) {
-  .main {
-  	padding-left: 5%;
-    width: 90%;
-  }
-}
-
-
 
 
 
@@ -145,4 +137,37 @@ o {
 	position: fixed;
 	left: 45%;
 	top:30%;
+}
+
+
+@media only screen and (max-width: 800px) {
+  .main {
+  	padding-left: 5%;
+    width: 90%;
+  }
+
+	.me .hidden {
+		display: none;
+	}
+
+	.me:hover .hidden {
+		display: none;
+	}
+
+	.project .hidden {
+		display: none;
+	}
+
+	.project:hover .hidden {
+		display: none;
+	}
+
+	.project .subproject .hidden {
+		display: none;
+	}
+
+	.project .subproject:hover .hidden {
+		display: none;
+	}
+
 }
