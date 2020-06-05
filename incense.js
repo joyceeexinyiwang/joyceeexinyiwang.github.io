@@ -7,6 +7,8 @@ var arm_with_match;
 var arm_with_incense_long;
 var arm_with_incense_short;
 
+var y;
+
 var shortSpan = 20000;
 var longSpan = 40000;
 
@@ -29,7 +31,9 @@ var cnv;
 function setup() {
   cnv = createCanvas(500, 600);
   cnv.position(windowWidth/2, windowHeight/2 - height/2, 'fixed');
-  cnv.style("z-index:0");
+  cnv.style('z-index', '-1');
+
+  y = windowHeight/2 - height/2;
 
   frameRate(15);
   smooth();
@@ -60,7 +64,9 @@ function draw() {
   }
 
   clear();
-  cnv.position(windowWidth/2 + width*0.1, windowHeight/2 - height/2, 'fixed');
+  cnv.position(windowWidth/2 + width*0.1, y);
+  cnv.elt.style.position = 'fixed';
+
   background(255, 0);
   drawShadow();
   drawHolder();
@@ -164,8 +170,6 @@ function updateFire() {
 
 
 function onLongIncense(x, y) {
-  // if (abs(x * -0.1712	 + 507.71 - y) < 10 && x > 227 && x < 460) {
-
   if (x > 215 && x < 494 && y > 400 && y < 501) {
     return true;
   } else {
@@ -188,6 +192,13 @@ function onHolder(x, y) {
     return false;
   }
 }
+
+function mouseWheel(event) {
+  // print(event.delta);
+  // y += event.delta;
+}
+
+//========= RENDERING ===========
 
 function drawShadow() {
   noStroke();
@@ -280,10 +291,6 @@ function drawShortIncenseDown() {
   image(incense_down_short, width/2-30, height/2+110, incense_down_short.width/1.5, incense_down_short.height/1.2);
 
 }
-
-
-
-
 
 
 

@@ -1,12 +1,13 @@
 body {
-	font-family: "Courier";
+	font-family: Helvetica, sans-serif;
 	color: black;
 	line-height: 1.2;
-	font-size: 14px;
+	font-size: 16px;
+	font-weight: 200;
 }
 
 h1 {
-	font-size: 15px;
+	font-size: 20px;
 	color: rgb(227,28,121);
 ;
 }
@@ -74,19 +75,19 @@ o {
 }
 
 .project:hover {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 .year {
 	padding-top: 28px; 
-	font-weight: bold;
+	font-weight: normal;
 }
 
 .info {
 	padding-left: 10px;
-	font-weight: normal;
 	display: block;
 	color: rgba(0, 0, 0, 0.5);
+	font-weight: 200;
 }
 
 .info a {
@@ -96,11 +97,11 @@ o {
 .project .subproject {
 	padding-left: 20px;
 	padding-top: 20px;
-	font-weight: normal;
+	font-weight: 200;
 }
 
 .project .subproject:hover {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 
