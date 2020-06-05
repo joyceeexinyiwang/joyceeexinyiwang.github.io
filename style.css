@@ -4,17 +4,18 @@ body {
 	line-height: 1.2;
 	font-size: 16px;
 	font-weight: 200;
+	position: relative;
+	z-index: 100;
 }
 
 h1 {
-	font-size: 20px;
+	font-size: 18px;
+	font-weight: 200;
+	font-style: italic;
 	color: rgb(227,28,121);
+	padding-bottom: 20px;
 ;
 }
-
-p {
-}
-
 
 a {
 	color: black;
@@ -45,7 +46,6 @@ o {
 	padding-bottom: 50px;
 	width: 40%;
 	position: absolute;
-	z-index: -100;
 }
 
 .cv {
@@ -104,8 +104,9 @@ o {
 	font-weight: normal;
 }
 
-
-
+.me {
+	display: inline;
+}
 
 .me .hidden {
 	display: none;

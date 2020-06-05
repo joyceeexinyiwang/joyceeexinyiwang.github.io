@@ -64,8 +64,9 @@ function draw() {
   }
 
   clear();
-  cnv.position(windowWidth/2 + width*0.1, y);
+  cnv.position(windowWidth/2, y);
   cnv.elt.style.position = 'fixed';
+  cnv.style('z-index', '-1');
 
   background(255, 0);
   drawShadow();
