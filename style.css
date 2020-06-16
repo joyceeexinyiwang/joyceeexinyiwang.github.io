@@ -112,11 +112,25 @@ o {
 	display: none;
 }
 
+.hidden {
+	position: fixed;
+	top: 0px;
+    left: 55%;
+    height: 100%;
+    width: 45%;
+    background-color: white;
+}
+
+.hidden img {
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-55%, -50%);
+	width: 90%;
+}
+
 .me:hover .hidden {
 	display: block;
-	position: fixed;
-	left: 45%;
-	top:30%;
 }
 
 .project .hidden {
@@ -125,9 +139,6 @@ o {
 
 .project:hover .hidden {
 	display: block;
-	position: fixed;
-	left: 45%;
-	top:30%;
 }
 
 .project .subproject .hidden {
@@ -136,9 +147,6 @@ o {
 
 .project .subproject:hover .hidden {
 	display: block;
-	position: fixed;
-	left: 45%;
-	top:30%;
 }
 
 
